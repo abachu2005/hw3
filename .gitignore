@@ -1,0 +1,9 @@
+Electric_Vehicle_Population_Data.csv
+instructions.txt
+Design.md
+md_to_pdf.py
+benchmark.py
+__pycache__/
+*.pyc
+.cursor/
+assets/
